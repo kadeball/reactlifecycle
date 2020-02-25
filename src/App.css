@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.box{
+  height: 200px;
+  width: 200px;
+  border: 8px solid mediumturquoise;
+  background-color: cornflowerblue;
+}
+
+button{
+  background-color: rebeccapurple;
+  height:100px;
+  width: 100px;
+}
+
+button:hover{
+  background-color: cornflowerblue;
+}
